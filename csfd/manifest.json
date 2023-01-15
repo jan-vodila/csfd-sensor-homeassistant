@@ -1,0 +1,10 @@
+{
+    "domain": "csfd",
+    "name": "CSFD",
+    "integration_type": "hub",
+    "dependencies": [],
+    "iot_class": "cloud_polling",
+    "version": "0.1",
+    "codeowners": ["@janvodila"],
+    "requirements": []
+}
